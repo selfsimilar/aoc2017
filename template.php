@@ -1,4 +1,4 @@
 <?php
 
 $input = <<<INPUT
-INPUT:
+INPUT;
